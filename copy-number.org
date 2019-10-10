@@ -1,0 +1,21 @@
+[[file:~/repos/copy-number/Dockerfile][~/repos/copy-number/Dockerfile]]
+https://pmbio.org/module-05-somatic/0005/04/01/Somatic_CNV_Calling/
+- from cfDNA 
+  - examples
+    - https://wustl.app.box.com/folder/81880937681?utm_source=trans&utm_medium=email&utm_campaign=collab%2Bauto%20accept%20user
+- tools
+  - CNVkit
+    - https://www.biostars.org/t/CNVkit/
+      - http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/
+      - https://www.biostars.org/p/296422/
+    - [[https://github.com/etal/cnvkit/blob/master/docker/Dockerfile][official Docker container]]
+    - mappability
+      - https://davetang.org/muse/2012/09/14/genome-mapability/
+      - https://genome.sph.umich.edu/wiki/MappabilityScores
+      - https://davetang.org/muse/2013/07/08/encode-mappability/
+      - ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeMapability/
+    - https://www.biostars.org/t/cnv/
+- ideas
+  - minimum example
+  - Consider more emacs shell work: 
+
