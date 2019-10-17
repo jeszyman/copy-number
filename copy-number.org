@@ -25,6 +25,7 @@
           - [[file:~/.emacs.d/snippets/org-mode/biotool]]
   - cnv calling
     - CNVkit
+      -
       - https://www.biostars.org/t/CNVkit/
         - http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/
         - https://www.biostars.org/p/296422/
@@ -35,6 +36,21 @@
         - https://davetang.org/muse/2013/07/08/encode-mappability/
         - ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeMapability/
       - https://www.biostars.org/t/cnv/
+      - commands
+        |----------+---------|
+        | function | command |
+        |----------+---------|
+        | <35>     | <35>    |
+        |          |         |
+      - processes
+      - standards and best practice
+      - documentation
+        - doi, cite:talevich2016
+        - github
+        - [[https://cnvkit.readthedocs.io/en/stable/pipeline.html#reference][manual]]
+      - applications
+      - reference
+        - [[file:~/.emacs.d/snippets/org-mode/biotool]]
 - ideas
   - minimum example
   - Consider more emacs shell work: 
